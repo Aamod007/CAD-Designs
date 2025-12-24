@@ -1,0 +1,4 @@
+ROBOTIS TurtleBot Burger by ROBOTIS on Thingiverse: https://www.thingiverse.com/thing:3069610
+
+Summary:
+3D-printable parts:waffle_plate.stlsprocket_wheel.stlboard_bracket.stlPR21_CASTER_CVR_3X5_REV6.stlBIC04_C01_PCB.stlNon-3D-printable parts:XM430_W350_R.stlSUPPORT_HEX_M3_0XL35_FF.stlNUT2_M3.stlPHS_M2_5X12.stlPHS_M2X4.stlPHS_M3X6.stlPR16_A01_TIRE_2.stlSTEELBALL_3_8INCH.stlSUPPORT_HEX_M3_0XL45_FF.stlPR07_ONE_RIVET_2.stlPHS_M2_5X8.stlNUT2_M2_5.stlMICRO_USB.stl530480810.stlPHS_M2_5X16.stlM_PR07_A01_SPACER_RIVET.stldummy_raspberrypi3.prt.stl

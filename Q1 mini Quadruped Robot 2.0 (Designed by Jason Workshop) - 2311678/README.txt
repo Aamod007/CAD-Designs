@@ -1,0 +1,4 @@
+Q1 mini Quadruped Robot 2.0 (Designed by Jason Workshop) by jasonleung8866 on Thingiverse: https://www.thingiverse.com/thing:2311678
+
+Summary:
+Q1 mini is an open source quadruped robot for everyone!You can print out the required parts by 3D printer or go to store.jasonworkshop.com to buy it at very low price.What is Q1 miniSimple design, easy to print and assemble.8 DOF using SG90 servo.All-in-one controller board - LinkIt 7697 with Robot Shield and built-in battery.Remote control the robot through mobile apps.Dimension is L150mm X W160mm X H80mm (Standby Post)Parts3D Printed parts (29 Pcs)LinkIt 7697 with Robot Shield Servo Control Board x 1TowerPro SG90 Servo x 8M1.7 x 8mm x 60Parts can be bought herehttps://www.q1robot.comhttps://www.tindie.com/products/11846/Instructions and downloadshttps:/hub.q1robot.comQ1 MeWe Pagehttps://mewe.q1robot.comQ1 Robot Webpagehttps://www.q1robot.comJason Workshophttps://www.jasonworkshop.comhttps://mewe.jasonworkshop.com
